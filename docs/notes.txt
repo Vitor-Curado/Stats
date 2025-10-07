@@ -1,0 +1,6 @@
+accounts M:N assets via Holdings
+items M:N purchases via PurchaseItems
+items 1:N stores
+
+expenses? WIP
+stores? WIP
